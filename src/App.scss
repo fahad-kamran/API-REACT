@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  main.main {
+    height: calc(100svh - 112px);
+    overflow-y: scroll;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
